@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tecgomes
+- 👀 I’m interested in Dev and Games
+- 🌱 I’m currently learning .net
